@@ -1,0 +1,47 @@
+[
+  {
+    "orderNumber": "202000819001",
+    "auditor": "何国明",
+    "auditLevel": "0",
+    "auditOperate": "数据提交",
+    "auditTime": "2020-08-20 10:30:30",
+    "auditAdvise": "数据提交",
+    "auditorIp": "10.114.78.23"
+  },
+  {
+    "orderNumber": "202000819001",
+    "auditor": "刘春雷",
+    "auditLevel": "1",
+    "auditOperate": "审批通过",
+    "auditTime": "2020-08-20 11:30:30",
+    "auditAdvise": "同意",
+    "auditorIp": "10.114.78.23"
+  },
+  {
+    "orderNumber": "202000819001",
+    "auditor": "冯庆文",
+    "auditLevel": "2",
+    "auditOperate": "退至提交人",
+    "auditTime": "2020-08-20 12:30:30",
+    "auditAdvise": "请先申请标准T字头的员工编号",
+    "auditorIp": "10.114.78.23"
+  },
+  {
+    "orderNumber": "202000819001",
+    "auditor": "慕永明",
+    "auditLevel": "3",
+    "auditOperate": "审批通过",
+    "auditTime": "2020-08-20 13:30:30",
+    "auditAdvise": "基本同意",
+    "auditorIp": "10.114.78.23"
+  },
+  {
+    "orderNumber": "202000819001",
+    "auditor": "李云涛",
+    "auditLevel": "4",
+    "auditOperate": "审批通过",
+    "auditTime": "2020-08-20 15:30:30",
+    "auditAdvise": "基本同意",
+    "auditorIp": "10.114.78.44"
+  }
+]
